@@ -1,4 +1,3 @@
 import acm.graphics.*;
-public class Clase1 {
-
+public class Clase1 {hjklhjbohuobhuohbjobhjoij
 }
