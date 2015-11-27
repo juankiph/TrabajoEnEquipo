@@ -13,14 +13,14 @@ public class Piernas extends GraphicsProgram{
 	}
 	
 	public void run(){
-		Pierna1 = new GRect (50,100);		
-		Pierna2 = new GRect(50,100);
-		Pie1 = new GRect(62,50);
-		Pie2 = new GRect (62,50);
+		Pierna1 = new GRect (40,100);		
+		Pierna2 = new GRect(40,100);
+		Pie1 = new GRect(60,40);
+		Pie2 = new GRect (60,40);
 		
-		add(Pierna1,25,0);
+		add(Pierna1,35,0);
 		add(Pierna2,75,0);
-		add(Pie1,12,100);
+		add(Pie1,14,100);
 		add(Pie2,75,100);
 	}
 
